@@ -1,0 +1,11 @@
+28JUN16
+
+	- Make gold a value instead of individual items in inventory
+	- Make linking maps (world map -> dungeon maps, town maps, other locations)
+	- Add some way of recovering health (hp regen per turn, health potions)
+	- Make rooms that have a special description the first time you enter
+	- Add rest action
+	- Add a way to save game (pickle)
+	- Make NPC tiles
+
+	+ Added hp regen per turn

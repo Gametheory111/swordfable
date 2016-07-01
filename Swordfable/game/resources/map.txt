@@ -1,0 +1,6 @@
+StartingRoom	EnterHall	CastleHall	GuardRoom	GoldRoomM
+EnterHall				
+CastleHall				
+GuardRoom				
+GuardRoom				
+GuardRoom				
